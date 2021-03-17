@@ -1,3 +1,3 @@
 # software-engineering-stuff
 
-*Only Object-Oriented Programming and above covered in this repo.*
+*Only Object-Oriented Programming and beyond covered in this repo.*
